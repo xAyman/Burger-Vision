@@ -18,3 +18,4 @@ But keep in mind that this code is only an example and burger vision is more pow
 This tool is coded by me (Ayman) !
 But you can update it if you want to.
 
+<img src="preview.png" width="500" height="300"></img>
